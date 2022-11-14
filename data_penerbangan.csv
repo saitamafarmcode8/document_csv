@@ -1,0 +1,11 @@
+Tanggal,Flight,Asal,Tujuan,Penumpang,Durasi
+1/20/2019,G201,Jakarta,Bali,145,50
+1/20/2019,G014,Medan,Jakarta,44,120
+1/20/2019,G011,Jakarta,Jogjakarta,121,60
+1/21/2019,G010,Medan ,Bali,80,120
+1/22/2019,G014,Bali,Jakarta,79,120
+1/23/2019,G016,Bali ,Surabaya,100,78
+1/24/2019,G012,Jogjakarta,Surabaya,180,90
+1/25/2019,G013,Jogjakarta,Medan,201,80
+1/26/2019,G015,Surabaya,Jakarta,128,60
+1/27/2019,G017,Surabaya,Jogjakarta,78,56
